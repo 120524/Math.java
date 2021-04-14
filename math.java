@@ -1,3 +1,4 @@
 public class camth(){
-  public  int add();
+  public  int add(); 
+  
 } 
